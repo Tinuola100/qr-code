@@ -1,0 +1,22 @@
+body{
+background-color: rgb(37, 34, 34);
+}
+
+.barcode{
+background-color:rgb(236, 220, 147);
+width: 700px;
+text-align: center;
+border-radius: 10px;
+margin: 300px;
+padding-bottom: 20px;
+}
+
+.sub-barcode{
+padding: 30px;
+padding-bottom: 20px;
+border-radius: 5px;
+}
+p{
+font-size: small;
+
+}
